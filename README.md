@@ -2,9 +2,11 @@
 
 ## About
 
-- Software Developer from Germany
+- Software Developer from Germany, currently living in Switzerland
 - Always trying to learn something new
 - Especially interested in Security, Performance and Accessibility
+- Fullstack developer
+- Mostly doing Rust, C#, JS/TS recently 
 
 ## Security
 
